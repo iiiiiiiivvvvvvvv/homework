@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(196, 238, 255);
+} 
+h1 {
+    color: blue;
+}
+h2 {
+    color: blue;
+}
+.big_text {
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+}
+ou {
+    list-style-type: square;
+}
